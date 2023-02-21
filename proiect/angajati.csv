@@ -1,0 +1,23 @@
+Id;Id dep;Department;Employee Name;Job Position;Hiring Date;Starting Salary
+emp-1;1;HR;Maria Popescu;Site Manager;2020-07-12;1900
+emp-2;1;HR;Anca Dimitrie;Contabil;2019-08-22;5400.0
+emp-4;2;IT;Adrian Popa;IT Helpdesk;2018-09-11;5400.0
+emp-5;2;IT;Adriana Milescu;Software Developer;2021-07-08;5700.0
+emp-6;2;IT;Maria Popovici;Software Developer;2021-06-22;5780.0
+emp-7;2;IT;Marius Petrila;DevOps Engineer;2018-07-12;6200.0
+emp-8;2;IT;Alexandru Milea;Junior DevOps;2021-10-11;4200.0
+emp-9;1;HR;Mihai Tomescu;Project Manager;2022-03-03;6800.0
+emp-11;3;Customer Relations;Ana Iordache;Customer Support Representative;2022-04-10;3200.0
+emp-13;3;Customer Relations;Mihnea Giuca;Customer Support Representative;2022-04-06;3370.0
+emp-14;3;Customer Relations;Adrian Damian;Senior Customer Support Representative;2022-04-10;3200.0
+emp-15;3;Customer Relations;Ana-Maria Popescu;Customer Support Representative;2022-04-10;3200.0
+emp-16;3;Customer Relations;Bogdan Iordache;Customer Support Representative;2022-04-10;3200.0
+emp-17;2;IT;Adrian Nemescu;Network Administrator;2022-02-22;6200.0
+emp-18;3;Customer Relations;Adrian Toma;Customer Support Representative;2022-04-11;3200.0
+emp-19;3;Customer Relations;Carina Tibu;Customer Support Representative;2022-04-12;3280.0
+emp-20;3;Customer Relations;Mihai Corici;Customer Support Representative;2022-04-10;1600.0
+emp-21;3;Customer Relations;Mircea Popa;Customer Support Representative;2022-04-08;2980.0
+emp-22;3;Customer Relations;Maria Badescu;Customer Support Representative;2022-04-10;3380.0
+emp-23;4;Sales;Meg Ryan;Manager;2030;2500.0
+emp-24;1;HR;Nume Prenume;Janitor;2023-02-20;4300.0
+emp-25;1;HR;Nume Prenume;Janitor;2023-02-20;8000.0

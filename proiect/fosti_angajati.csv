@@ -1,0 +1,6 @@
+Id;Id dep;Department;Employee Name;Job Position;Hiring Date;Starting Salary
+emp-24;4;Sales;Meg Ryan;Manager;2022-03-22;2000.0
+emp-24;4;Sales;Maria T;Maanager;2020-02-02;3200.0
+emp-10;1;HR;Ana-Maria Punga;Manager Assistant;2022-04-12;4800.0
+emp-12;3;Customer Relations;Adrian Tomescu;Customer Support Representative;2022-04-09;3280.0
+emp-3;1;HR;Marian Cantemir;Talent reqruiter;2021-05-12;4200.0
